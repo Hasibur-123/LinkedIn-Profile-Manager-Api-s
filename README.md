@@ -19,3 +19,6 @@ The **Automatic LinkedIn Profile Manager** is a Java-based application that auto
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/LinkedInProfileManager.git
+
+   Install dependencies:
+   mvn install
