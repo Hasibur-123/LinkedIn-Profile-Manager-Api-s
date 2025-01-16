@@ -22,3 +22,7 @@ The **Automatic LinkedIn Profile Manager** is a Java-based application that auto
 
    Install dependencies:
    mvn install
+
+Set your environment variables in config.properties:CLIENT_ID=your_client_id
+CLIENT_SECRET=your_client_secret
+REDIRECT_URI=your_redirect_uri
