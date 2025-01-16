@@ -17,22 +17,6 @@ The **Automatic LinkedIn Profile Manager** is a Java-based application that auto
 
 ## 📥 How to Run the Project
 1. Clone the repository:
-   ```bash
    git clone https://github.com/yourusername/LinkedInProfileManager.git
 
-   Install dependencies:
-   mvn install
-
-Set your environment variables in config.properties:
-CLIENT_ID=your_client_id
-CLIENT_SECRET=your_client_secret
-REDIRECT_URI=your_redirect_uri
-
-Run the application:
-java -jar LinkedInProfileManager.jar
-
-📚 API Documentation
-Get Profile Data: https://api.linkedin.com/v2/me
-Update Profile: https://api.linkedin.com/v2/me
-Send Connection Request: https://api.linkedin.com/v2/invitations
-Post Content: https://api.linkedin.com/v2/shares
+   
